@@ -3,4 +3,4 @@ Se debe descargar "jdk 21" aqui el link de la pagina "https://www.oracle.com/jav
 
 Se debe descargar el que diga "x64 Installer"
 
-Y listo ya se puede abrir la computadora
+Y listo ya se puede abrir la calculadora
